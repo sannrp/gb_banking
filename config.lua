@@ -1,7 +1,7 @@
 Config              = {}
 
-Config.HelpText1 = "Naciśnij ~INPUT_PICKUP~ aby skorzystać z terminalu bankowego ~b~"
-Config.HelpText2 = "Naciśnij ~INPUT_PICKUP~ aby skorzystać z bankomatu ~b~"
+Config.HelpText1 = "Press ~INPUT_PICKUP~ to use a bank ~b~"
+Config.HelpText2 = "Press ~INPUT_PICKUP~ to use an ATM ~b~"
 
 Config.Logged = "Logged In"
 Config.CurrentlyLogged = "Someone is already logged in to this account"
